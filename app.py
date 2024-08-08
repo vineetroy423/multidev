@@ -3,6 +3,6 @@
 # importing the random module
 import random
 
-print(random.randint(0,9))
+print("i m vineet roy")
 print("hello wellcome to my app")
 
